@@ -7,6 +7,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("I'm confused");
+            Console.WriteLine("Tell me your name");
 
         }
     }
